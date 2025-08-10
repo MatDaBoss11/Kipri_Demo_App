@@ -1,0 +1,13 @@
+name: grocery_search_app
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+
+flutter:
+  uses-material-design: true
